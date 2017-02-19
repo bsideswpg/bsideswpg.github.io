@@ -22,10 +22,10 @@ permalink: /
     <h4>What?</h4>
     <p>A BSides conference is an information security conference by the community for the community. It follows a traditional conference format but encourages participation, discussion, and collaboration.</p>
 
-    <p>BSides Winnipeg 2017 is a two-day information security conference running from Noon to 7pm on November 4th & 5th. It is organized as a single track on the top floor of the <a title="King's Crown and Gallery" href="http://www.kingshead.ca/private_events/">King's Head Pub</a>.
+    <p>BSides Winnipeg 2017 is a two-day information security conference running from Noon to 7pm on November 4th & 5th. It is organized as a single track on the top floor of the <a title="King's Crown and Gallery" href="http://www.kingshead.ca/private_events/">King's Head Pub</a>.</p>
 
     <p>Please note that a ticket for this event includes one meal each day, and that this event is held in a pub, and therefore only persons 18 years of age may attend.</p>
 
-    <p><a href="http://www.securitybsides.com">Read more about Security B-Sides Events</a></p>
+    <p><a href="http://www.securitybsides.com">Read more about Security B-Sides Events</a>.</p>
   </div>
 </div>
