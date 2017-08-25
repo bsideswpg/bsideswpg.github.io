@@ -31,10 +31,11 @@ permalink: /
   <div class="col-lg-12">
     <h2>Sponsors</h2>
     <style>
-      img.sponsorlogo { max-height:200px; max-width:300px; display:inline-block; padding:20px; }
+      img.sponsorlogo { max-height:200px; max-width:300px; display:inline-block; padding:40px; }
       a.sponsortext { font-size:30px; font-weight:bold; display:inline-block; padding:20px }
     </style>
 
-     <a href="http://www.iqmetrix.com/" target="_blank"><img class="sponsorlogo" src="/logos/iqmetrix2017.png"/></a>
+     <a href="https://www.iqmetrix.com" target="_blank"><img class="sponsorlogo" src="/logos/iqmetrix2017.png"/></a>
+     <a href="https://www.fastly.com" target="_blank"><img class="sponsorlogo" src="/logos/fastly.png"/></a>
   </div>
 </div>
