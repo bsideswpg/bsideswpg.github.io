@@ -15,9 +15,9 @@ permalink: /about/
     <p>If you have any questions about how to participate in the event, either as a <a href="/speakers/">speaker</a> or a <a href="/sponsors/">sponsor</a>, please <a href="/contact/">contact us</a>.</p>
 
     <h4>Code of Conduct</h4>
-    <p>We have <strong>no tolerance</strong> for physical/verbal/sexual harassment!</p>
+    <p>We have no tolerance for physical/verbal/sexual harassment!</p>
 
-    <p>Asking questions of a speaker during their talk, to get clarity or debate a point is <strong>not</strong> harassment &ndash; heckling or haranguing the speaker <strong>is</strong>. If you are not sure, ask, or err on the side of basic decency and common courtesy. If what they are doing would not be acceptable to have done to you, your best friend, your worst enemy, your sister, niece, daughter, brother, nephew, son, mother, father, or any human being, do not let them treat anyone else that way &ndash; whether you know them or not. If someone asks you to stop &ndash; stop.</p>
+    <p>Asking questions of a speaker during their talk, to get clarity or debate a point is not harassment &ndash; heckling or haranguing the speaker is. If you are not sure, ask, or err on the side of basic decency and common courtesy. If what they are doing would not be acceptable to have done to you, your best friend, your worst enemy, your sister, niece, daughter, brother, nephew, son, mother, father, or any human being, do not let them treat anyone else that way &ndash; whether you know them or not. If someone asks you to stop &ndash; stop.</p>
 
     <p>If you are having an issue with a BSides SF participant of any badge type, find a member of our Safety &amp; Security Team in the red BSides t-shirts (or any staff member). They will call our Harassment Response Team, who will take an official incident report and determine next steps.</p>
 
