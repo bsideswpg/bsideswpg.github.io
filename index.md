@@ -38,7 +38,7 @@ permalink: /
      <a href="https://www.iqmetrix.com" target="_blank"><img class="sponsorlogo" src="/logos/iqmetrix2017.png"/></a>
      <a href="https://www.fastly.com" target="_blank"><img class="sponsorlogo" src="/logos/fastly.png"/></a>
      <a href="https://www.google.com" target="_blank"><img class="sponsorlogo" src="/logos/google2017.png"/></a>
-     <a href="https://www.compugen.com/en/" target="_blank"><img class="sponsorlogo" src="/logos/compugen.png"/></a>
+     <a href="https://www.compugen.com/en/" target="_blank"><img class="sponsorlogo" src="/logos/compugen.jpg"/></a>
      <a href="https://www.isaca.org/" target="_blank"><img class="sponsorlogo" src="/logos/isaca.png"/></a>
      <a href="http://highspeedcrow.ca/" target="_blank"><img class="sponsorlogo" src="/logos/high_speed_crow2017.png"/></a>
      <a href="http://www.151research.com/" target="_blank"><img class="sponsorlogo" src="/logos/151research.jpg"/></a>
