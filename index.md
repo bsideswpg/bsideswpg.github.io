@@ -37,5 +37,6 @@ permalink: /
 
      <a href="https://www.iqmetrix.com" target="_blank"><img class="sponsorlogo" src="/logos/iqmetrix2017.png"/></a>
      <a href="https://www.fastly.com" target="_blank"><img class="sponsorlogo" src="/logos/fastly.png"/></a>
+     <a href="https://www.google.com" target="_blank"><img class="sponsorlogo" src="/logos/google2017.png"/></a>
   </div>
 </div>
