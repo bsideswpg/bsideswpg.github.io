@@ -43,5 +43,7 @@ permalink: /
      <a href="http://highspeedcrow.ca/" target="_blank"><img class="sponsorlogo" src="/logos/high_speed_crow2017.png"/></a>
      <a href="http://www.151research.com/" target="_blank"><img class="sponsorlogo" src="/logos/151research.jpg"/></a>
      <a href="https://www.cisco.com/" target="_blank"><img class="sponsorlogo" src="/logos/cisco.png"/></a>
+     <a href="https://aaavideorecording.com/" target="_blank"><img class="sponsorlogo" src="/logos/aaa_video_recording.jpg"/></a>
+     <a href="http://www.canadiantire.ca/" target="_blank"><img class="sponsorlogo" src="/logos/canadian_tire.png"/></a>
   </div>
 </div>
