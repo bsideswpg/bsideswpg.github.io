@@ -195,7 +195,7 @@ permalink: /speakers/
 <div class="row" style="padding-top:3em;" id="robert-keizer">
   <div class="col-lg-12 bg-primary">
     <h4 class="title">Reverse DNS the World - What do you learn? The how and what.</h4>
-    <h5 class="speaker">Robert Keizer (Pegboard)</h5>
+    <h5 class="speaker">Robert Keizer (Pegboard Hosting)</h5>
   </div>
 </div>
 
