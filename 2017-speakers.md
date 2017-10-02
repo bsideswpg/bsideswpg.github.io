@@ -195,13 +195,13 @@ permalink: /speakers/
 <div class="row" style="padding-top:3em;" id="robert-keizer">
   <div class="col-lg-12 bg-primary">
     <h4 class="title">Reverse DNS the World - What do you learn? The how and what.</h4>
-    <h5 class="speaker">Robert Keizer (Pegboard Hosting)</h5>
+    <h5 class="speaker">Rob Keizer (Pegboard Hosting)</h5>
   </div>
 </div>
 
 <div class="row">
   <div class="col-lg-7">
-    <p class="abstract">Recent years have seen the scanning the entire IPv4 Internet become more and more commonplace. Robert has gone and compiled a database of reverse DNS records for every IP address. What information can be extracted from them? Perhaps secure-admin.someprovider.com might not have been the smartest name to use. This presentation will go over how he was able to reverse DNS the entire world, as well as some examples of interesting entries.</p>
+    <p class="abstract">Recent years have seen the scanning the entire IPv4 Internet become more and more commonplace. Rob has gone and compiled a database of reverse DNS records for every IP address. What information can be extracted from them? Perhaps secure-admin.someprovider.com might not have been the smartest name to use. This presentation will go over how he was able to reverse DNS the entire world, as well as some examples of interesting entries.</p>
 
     <p class="bio"></p>
   </div>
