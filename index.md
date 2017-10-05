@@ -45,5 +45,6 @@ permalink: /
      <a href="https://www.cisco.com/" target="_blank"><img class="sponsorlogo" src="/logos/cisco.png"/></a>
      <a href="https://aaavideorecording.com/" target="_blank"><img class="sponsorlogo" src="/logos/aaa_video_recording.jpg"/></a>
      <a href="http://www.canadiantire.ca/" target="_blank"><img class="sponsorlogo" src="/logos/canadian_tire.png"/></a>
+     <a href="https://www.pegboardhosting.ca/" target="_blank"><img class="sponsorlogo" src="/logos/pegboard_logo_fin_k.jpg"/></a>
   </div>
 </div>
