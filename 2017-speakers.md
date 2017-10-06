@@ -135,7 +135,7 @@ permalink: /speakers/
   <div class="col-lg-7">
     <p class="abstract">We are inundated with Information about high-cost solutions for info sec problems, but there are several free or low-cost solutions out there that are suitable for self-education or use in small businesses. Examples would include Snort, open source Tripwire, free honeypots, and Nessus Home as well as most of the tools in the Kali Linux distro. Without going into great detail on any of these, Mark will show how they can be combined into a comprehensive solution to some of the critical security controls either as a test lab or for zero-budget targets.</p>
 
-    <p class="bio"></p>
+    <p class="bio">Mark has been in IT since late in the previous century, filling a wide variety of roles and continuing to prove that there is room in IT for a jack of all trades with a short attention span and good people skills. He arrived to the information security role pretty recently and is drinking from the Fire Hose of Knowledge in order to catch up.</p>
   </div>
 </div>
 
