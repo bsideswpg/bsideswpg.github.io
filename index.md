@@ -28,6 +28,15 @@ permalink: /
 
     <p><a href="http://www.securitybsides.com">Read more about Security B-Sides Events</a>.</p>
   </div>
+  <!-- Randomize order of sponsor logos on each page load -->
+  <script type="text/javascript">
+    document.addEventListener("DOMContentLoaded", function (event) {
+      var links = document.getElementById('sponsorlinks');
+      for (var i = links.children.length; i >= 0; i--) {
+          links.appendChild(links.children[Math.random() * i | 0]);
+      }
+    });
+  </script>
   <div class="col-lg-12">
     <h2>Sponsors</h2>
     <style>
@@ -35,6 +44,7 @@ permalink: /
       a.sponsortext { font-size:30px; font-weight:bold; display:inline-block; padding:20px }
     </style>
 
+    <div id="sponsorlinks">
      <a href="https://www.iqmetrix.com" target="_blank"><img class="sponsorlogo" src="/logos/iqmetrix2017.png"/></a>
      <a href="https://www.fastly.com" target="_blank"><img class="sponsorlogo" src="/logos/fastly.png"/></a>
      <a href="https://www.google.com" target="_blank"><img class="sponsorlogo" src="/logos/google2017.png"/></a>
@@ -47,5 +57,6 @@ permalink: /
      <a href="http://www.151research.com/" target="_blank"><img class="sponsorlogo" src="/logos/151research.jpg"/></a>
      <a href="https://www.cisco.com/" target="_blank"><img class="sponsorlogo" src="/logos/cisco.png"/></a>
      <a href="https://www.mcafee.com/" target="_blank"><img class="sponsorlogo" src="/logos/mcafee_2017.png"/></a>
+    </div>
   </div>
 </div>
