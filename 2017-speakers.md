@@ -169,7 +169,7 @@ permalink: /speakers/
   <div class="col-lg-7">
     <p class="abstract">With public cloud adoption accelerating by all measures, the task of understanding how to deploy secure applications and architectures using the tools available in these environments is increasingly complex. This talk will cover the important aspects of public cloud security including products and tools available, compliance management, application and architecture design, identity and access management, and general best-practice.</p>
 
-    <p class="bio"></p>
+    <p class="bio">Mike has an undergrad degree in Mathematics and a Master's degree in computer engineering focusing on computer network security. These days he does "cloud" stuff professionally, focusing on architecting and building applications and systems using public cloud technologies. Mike has several AWS certifications, enjoys powerlifting, loves cats, and volunteers with the Canadian Cyber Defence Challenge.</p>
   </div>
 </div>
 
