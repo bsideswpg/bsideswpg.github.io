@@ -57,6 +57,7 @@ permalink: /
      <a href="http://www.151research.com/" target="_blank"><img class="sponsorlogo" src="/logos/151research.jpg"/></a>
      <a href="https://www.cisco.com/" target="_blank"><img class="sponsorlogo" src="/logos/cisco.png"/></a>
      <a href="https://www.mcafee.com/" target="_blank"><img class="sponsorlogo" src="/logos/mcafee_2017.png"/></a>
+     <a href="https://www.obsglobal.com" target="_blank"><img class="sponsorlogo" src="/logos/obs_2017.png"/></a>
     </div>
   </div>
 </div>
