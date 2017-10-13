@@ -16,7 +16,7 @@ permalink: /speakers/
   <div class="col-lg-7">
     <p class="abstract">This talk will discuss tools that can be used to investigate emails to determine whether they are phising attempts.</p>
 
-    <p class="bio"></p>
+    <p class="bio">Aemilianus AKA AK is a local tech enthusiast, currently working as a Systems Administrator for Deposit Guarantee Corporation of Manitoba. He spends his day fighting with government IT systems, and his nights trying to forget his days.</p>
   </div>
 </div>
 
@@ -186,7 +186,7 @@ permalink: /speakers/
   <div class="col-lg-7">
     <p class="abstract">When Mike started learning buffer overflows, he thought it was something everybody else already knew. But the reality is, there are lots of us, just like hi,, who want to know more but are either overwhelmed by the idea that buffer overflows are beyond their capabilities or just don’t know where to get started. This is a 101-level talk; it’ll talk about how a buffer overflow works, how to fuzz an app to identify an overflow opportunity, and how to create a simple overflow that will result in a compromise of a target system. If you can already smash the stack, spray the heap, and write ROP chains in your sleep, this isn’t the talk for you. If you want to learn more about how simple buffer overflows work and how to write them, this talk is for you. When you leave, you will have the information necessary to help you write your first overflow when you walk out the door. </p>
 
-    <p class="bio"></p>
+    <p class="bio">Mike's love of IT started in the third grade when he discovered he could view the code of BASIC programs on an Apple ][e. Mike now performs penetration testing and vulnerability assessments for a multinational agribusiness corporation. He has held many information technology and IT security positions, including developer, network administrator, system administrator, security architect and security incident handler. Mike holds the OSCP, ISC2 CISSP, and GIAC GPEN, GWAPT, GMOB, and GCIH certifications. When he is not at work, he is an avid kayak fisherman and member of a local horn rock band.</p>
   </div>
 </div>
 
