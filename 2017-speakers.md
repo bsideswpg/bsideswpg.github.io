@@ -271,7 +271,7 @@ permalink: /speakers/
   <div class="col-lg-7">
     <p class="abstract">The Microsoft NTLM authentication protocol has been around since 1993, and remains widely supported 24 years later. In this talk, Travis will discuss NTLM relaying, a powerful, ubiquitous attack against networks that support NTLM authentication, the potential impact of these attacks, and techniques to protect your network.</p>
 
-    <p class="bio"></p>
+    <p class="bio">After obtaining a Master of Science in computer engineering focussing on computer security, Travis took a break from InfoSec for a couple years to write autopilot software for UAVs. Now he's back, working at MERLIN to help to keep schools safe from the bad guys, while educating future white hats by volunteering as part of the infrastructure and challenge team for the Canadian Cyber Defence Challenge.</p>
   </div>
 </div>
 
