@@ -14,7 +14,7 @@ permalink: /speakers/
 
 <div class="row">
   <div class="col-lg-7">
-    <p class="abstract">This talk will discuss tools that can be used to investigate emails to determine whether they are phising attempts.</p>
+    <p class="abstract">This talk will discuss tools that can be used to investigate emails to determine whether they are phishing attempts.</p>
 
     <p class="bio">Aemilianus AKA AK is a local tech enthusiast, currently working as a Systems Administrator for Deposit Guarantee Corporation of Manitoba. He spends his day fighting with government IT systems, and his nights trying to forget his days.</p>
   </div>
@@ -31,9 +31,9 @@ permalink: /speakers/
 
 <div class="row">
   <div class="col-lg-7">
-    <p class="abstract">The latest marketing fad and hype in our industry is the pushing of machine learning as a magic pancea for all cyber ills. We're told that by utilizing artistically crafted pixie dust and rainbow unicorn algorithms all your cyber woes can cured. Unfortunately, otherwise rational people in our industry seem to give a lot of weight to these marketing claims because 1) machine learning is complicated and 2) we've seen machine learning do some really incredible things like drive cars, beat the best Go players, "dream" crazy images, etc. This talk will illustrate some of the hype we're being bombarded with, pull back the covers on what machine learning is and how it works, present some basic statistics (Bayesian) and show why security is a much harder problem for machine learning than we realize. </p>
+    <p class="abstract">The latest marketing fad and hype in our industry is the pushing of machine learning as a magic panacea for all cyber ills. We're told that by utilizing artistically crafted pixie dust and rainbow unicorn algorithms all your cyber woes can cured. Unfortunately, otherwise rational people in our industry seem to give a lot of weight to these marketing claims because 1) machine learning is complicated and 2) we've seen machine learning do some really incredible things like drive cars, beat the best Go players, "dream" crazy images, etc. This talk will illustrate some of the hype we're being bombarded with, pull back the covers on what machine learning is and how it works, present some basic statistics (Bayesian) and show why security is a much harder problem for machine learning than we realize. </p>
 
-    <p class="bio"></p>
+    <p class="bio">Like all great cyber security thought leaders, Brandon Enright is a self-aggrandizing media <span class="redacted">REDACTED</span>. When he isn't leading cyber infosec thoughts, he's leading cyber dreams. Brandon can factor large primes with nothing more than pencil and paper and even recite the digits of Pi in random order in arbitrary bases. Recognized as one of the great legends in machine learning, several of Brandon's machines have learned so much Harvard is working on granting them PhDs. Rumor has it that shortly after Elon Musk met Brandon, Elon bought a small island in the south pacific for shelter and revised his estimate of the coming singularity up a decade. Brandon is why Bruce Schneier has trouble sleeping at night.</p>
   </div>
 </div>
 
@@ -41,16 +41,16 @@ permalink: /speakers/
 
 <div class="row" style="padding-top:3em;" id="christian-johnson">
   <div class="col-lg-12 bg-primary">
-    <h4 class="title">Accessibility &amp; Security</h4>
+    <h4 class="title">TBA</h4>
     <h5 class="speaker">Christian Johnson</h5>
   </div>
 </div>
 
 <div class="row">
   <div class="col-lg-7">
-    <p class="abstract"></p>
+    <p class="abstract">TBA</p>
 
-    <p class="bio"></p>
+    <p class="bio">Chris is a local IT enthusiast and wannabe security professional currently employed by ParIT Worker Co-Op. Having survived several strokes in his late teen years, he now makes use of a range of programs aimed at making computation an accessible end goal.</p>
   </div>
 </div>
 
@@ -82,9 +82,9 @@ permalink: /speakers/
 
 <div class="row">
   <div class="col-lg-7">
-    <p class="abstract">Commercial radio communications have evolved from islands of single-media, low-datarate "dumb" analog repeaters to interconnections of multiplexed, high-speed, self-optimizing multimedia networks. But the amateur radio hobby, where many designers and technicians of the world's radio systems learned their skills, has not seen such progress. Due to budgetary and legacy reasons, many amateur radio systems have not changed notably in the last 30 years other than case design. Unwilling to let this great hobby (and emergency resource) die like *BSD, the dedicated VA4WAN group is installing a High-Speed MultiMedia "HAMWAN" in Winnipeg and beyond, repurposing donated 2.4/5.8ghz outdoor Wi-Fi gear into the 2.3/5.9Ghz amateur radio frequency bands. This presentation introduces the amateur radio hobby, the VA4WAN project's goals, methods, current status and future plans.</p>
+    <p class="abstract">Commercial radio communications have evolved from islands of single-media, low-datarate "dumb" analog repeaters to interconnections of multiplexed, high-speed, self-optimizing multimedia networks. Due to budgetary and legacy reasons, many amateur radio systems have not changed notably in the last decades. Unwilling to let this great hobby (and emergency resource) atrophy, the dedicated VA4WAN group is installing a High-Speed MultiMedia "HAMWAN" around and beyond Winnipeg, repurposing donated 2.4/5.8ghz outdoor Wi-Fi gear into the 2.3/5.9Ghz amateur radio frequency bands. This presentation introduces the amateur radio hobby, the VA4WAN project's goals, methods, current status and future plans.</p>
 
-    <p class="bio"></p>
+    <p class="bio">Involved in many Winnipeg technology communities, businesses and projects since a young age, Colin has very in-depth experience in all aspects of networking, PCs and long-distance/rural wireless networks.</p>
   </div>
 </div>
 
@@ -118,7 +118,9 @@ permalink: /speakers/
   <div class="col-lg-7">
     <p class="abstract">Scraping data from the Internet is an old practice, but one that is more and more popular these days. Pricerazzi scrapes pricing and product data from retailers to facilitate price matching. Unsurprisingly, retailers have a wide range of quality in their sites, apps, and systems; they have seen many questionable things ranging from simple poor practice to severe security issues. This will be a discussion on the state of retail websites in 2017.</p>
 
-    <p class="bio"></p>
+    <p class="bio">Jason currently works at Pricerazzi as Lead Software Developer, he went through the Computer Science Co-op Program at the University of Manitoba and has been working as a developer for around 8 years. He spends his spare time working on web scraping projects and fixing his house.</p>
+
+    <p class="bio">Kevin is a computer science undergrad with a passion for learning about artificial intelligence. He spends his day as a developer for Pricerazzi dealing with the joys of web scraping.</p>
   </div>
 </div>
 
@@ -203,7 +205,7 @@ permalink: /speakers/
   <div class="col-lg-7">
     <p class="abstract">Recent years have seen the scanning the entire IPv4 Internet become more and more commonplace. Rob has gone and compiled a database of reverse DNS records for every IP address. What information can be extracted from them? Perhaps secure-admin.someprovider.com might not have been the smartest name to use. This presentation will go over how he was able to reverse DNS the entire world, as well as some examples of interesting entries.</p>
 
-    <p class="bio"></p>
+    <p class="bio">Rob is an active player in Winnipeg’s tech scene, lending his talents to a variety of entrepreneurial and startup ventures. He is currently Founder and CEO at Pegboard Hosting and a Founding Director of Coldhak. His previous community involvement has included serving on boards of SkullSpace and the Manitoba Unix User Group (MUUG). Previous titles include developer, systems admin, CTO, etc.</p>
   </div>
 </div>
 
@@ -254,7 +256,7 @@ permalink: /speakers/
   <div class="col-lg-7">
     <p class="abstract">Conducting assessments against 2500+ machines is very different than conducting smaller 500 or less assessments. This talk will provide basics on managing these sorts of assessments, and provide tips for automating repetitive tasks to allow you to maximize your engagement time. This includes useful tools Tim has found, custom scripts, and writing basic Metasploit Aux modules to get things done fast.</p>
 
-    <p class="bio"></p>
+    <p class="bio">Tim Jensen is a Senior Penetration Tester with AppSec Consulting, based out of San Jose California. Tim lives in Fargo, ND USA and greatly enjoys Network, Physical, and Wireless testing. When not obsessing over hacking, Tim spends time playing with Software Defined Radios, volunteering, and going on adventures.</p>
   </div>
 </div>
 
@@ -288,7 +290,7 @@ permalink: /speakers/
   <div class="col-lg-7">
     <p class="abstract">If we did a typical IT Risk assessment of the Titanic before its maiden voyage, would it have sailed? Would the risk of loss of life come in as "Medium-Low" with a Low likelihood? Would the risk practitioners have focused on an incremental approach of adding another 4 lifeboats, and putting in an initiative in the next fiscal year to fund four more? A tongue in cheek look at the typical problems with risk assessments in IT Security.</p>
 
-    <p class="bio"></p>
+    <p class="bio">William has been in the Information Security field for 5 years. William worked as an Information Security Specialist at MTS conducting penetration testing, vulnerability management and risk assessments. He currently works as a Senior Information Security Analyst at Great-West Life specializing in Penetration Testing. William has a Bachelor of Computer Science from the University of Manitoba and has obtained his Offensive Security Certified Professional (OSCP) and Offensive Security Certified Expert (OSCE) certifications.</p>
   </div>
 </div>
 
@@ -305,6 +307,6 @@ permalink: /speakers/
   <div class="col-lg-7">
     <p class="abstract">An overview of techniques for bypassing web application firewalls, and how to use them in conjunction with automated testing tools to validate the efficacy of application defenses.</p>
 
-    <p class="bio"></p>
+    <p class="bio">Yvan has been in computer security for many years, and in information technology for even longer. He's spoken at several conferences, and had positions with several companies whose names you would recognize. Yvan likes to live on the edge, by doing things like letting conference organizers write bios for him.</p>
   </div>
 </div>
