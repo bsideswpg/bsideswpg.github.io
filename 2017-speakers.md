@@ -3,6 +3,144 @@ layout: default
 permalink: /speakers/
 ---
 
+<div class="row" id="saturday">
+  <div class="col-lg-12">
+    <h3>Saturday, November 4th, 2017</h3>
+    <table class="table table-bordered table-striped table-condensed">
+      <thead>
+        <tr>
+          <th>Time</th>
+          <th>Event</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>10:00 &ndash; 11:00</td>
+          <td>Registration</td>
+        </tr>
+        <tr>
+          <td>11:00 &ndash; 11:25</td>
+          <td>Opening Ceremony</td>
+        </tr>
+        <tr>
+          <td>11:30 &ndash; 11:55</td>
+          <td><a href="#christian-peron">For The Win: Finding WAF Evasions and Verifying Fixes with FTW</a><br/>Christian Peron</td>
+        </tr>
+        <tr>
+          <td>12:00 &ndash; 12:25</td>
+          <td><a href="#mark-havens">Info Sec for Cheapskates</a><br/>Mark Havens</td>
+        </tr>
+        <tr>
+          <td>12:30 &ndash; 12:55</td>
+          <td><a href="#colin-stanners">Winnipeg-Wide Amateur Radio IP Network: VA4WAN</a><br/>Colin Stanners</td>
+        </tr>
+        <tr>
+          <td>13:00 &ndash; 13:45</td>
+          <td>Lunch Break<br/>Catered by the King's Head</td>
+        </tr>
+        <tr>
+          <td>13:45 &ndash; 14:40</td>
+          <td><a href="#brandon-enright">Machine Learning and the Cyberz: Separating Fact from Marketing Fiction</a><br/>Brandon Enright</td>
+        </tr>
+        <tr>
+          <td>14:45 &ndash; 15:10</td>
+          <td><a href="#william-kempan">An IT Risk Assessment of the Titanic</a><br/>William Kempan</td>
+        </tr>
+        <tr>
+          <td>15:15 &ndash; 15:45</td>
+          <td>Coffee Break<br/>Catered by the King's Head</td>
+        </tr>
+        <tr>
+          <td>15:45 &ndash; 16:40</td>
+          <td><a href="#travis-friesen">The Ins and Outs of NTLM Relaying (and why you should give a damn!)</a><br/>Travis Friesen</td>
+        </tr>
+        <tr>
+          <td>16:45 &ndash; 17:30</td>
+          <td>Dinner Break<br/>Catered by the King's Head</td>
+        </tr>
+        <tr>
+          <td>17:30 &ndash; 17:55</td>
+          <td><a href="#dmitry-balikhin">Privilege Escalation: Living a New Life Without getsystem</a><br/>Dmitry Balikhin</td>
+        </tr>
+        <tr>
+          <td>18:00 &ndash; 18:55</td>
+          <td><a href="#mike-saunders">I Want my EIP</a><br/>Mike Saunders</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- *********************************************************************** -->
+
+<div class="row" id="sunday">
+  <div class="col-lg-12">
+    <h3>Sunday, November 5th, 2017</h3>
+    <table class="table table-bordered table-striped table-condensed">
+      <thead>
+        <tr>
+          <th>Time</th>
+          <th>Event</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>10:00 &ndash; 10:55</td>
+          <td><a href="#theodore-baschak">Operating your own BGP Autonomous System on the Internet (AKA: BGP for Fun & Profit)</a><br/>Theodore Baschak</td>
+        </tr>
+        <tr>
+          <td>11:00 &ndash; 11:25</td>
+          <td><a href="#robert-keizer">Reverse DNS the World - What do you learn? The how and what</a><br/>Robert Keizer</td>
+        </tr>
+        <tr>
+          <td>11:30 &ndash; 12:25</td>
+          <td><a href="#mark-jenkins">More Secure Bootstrap Problems and Solutions</a><br/>Mark Jenkins</td>
+        </tr>
+        <tr>
+          <td>12:30 &ndash; 13:30</td>
+          <td>Lunch Break<br/>Catered by the King's Head</td>
+        </tr>
+        <tr>
+          <td>13:30 &ndash; 13:55</td>
+          <td><a href="#tim-jensen">Managing Large Assessments</a><br/>Tim Jensen</td>
+        </tr>
+        <tr>
+          <td>14:00 &ndash; 14:55</td>
+          <td><a href="#mike-himbeault">Avoiding Kyphosis: Security Posture in the Cloud</a><br/>Mike Himbeault</td>
+        </tr>
+        <tr>
+          <td>15:00 &ndash; 15:25</td>
+          <td>Coffee Break<br/>Catered by the King's Head</td>
+        </tr>
+        <tr>
+          <td>15:30 &ndash; 15:55</td>
+          <td><a href="#aemilianus-kehler">Zero Day Phishing Emails</a><br/>Aemilianus Kehler</td>
+        </tr>
+        <tr>
+          <td>16:00 &ndash; 16:25</td>
+          <td><a href="#sarah-lacroix">Do As I Say, Not As I Do: Why Our Security Advice Sucks and How We Can Change That</a><br/>Sarah LaCroix</td>
+        </tr>
+        <tr>
+          <td>16:30 &ndash; 17:30</td>
+          <td>Dinner Break<br/>Catered by the King's Head</td>
+        </tr>
+        <tr>
+          <td>17:30 &ndash; 17:55</td>
+          <td><a href="#harder-cortens">Scraping Retailers: or How I Learnt to Stop Worrying and Love the Web</a><br/>Jason Harder &amp; Kevin Cortens</td>
+        </tr>
+        <tr>
+          <td>18:00 &ndash; 18:25</td>
+          <td><a href="#yvan-boily">Hopping Fences - Practical WAF Bypasses</a><br/>Yvan Boily</td>
+        </tr>
+        <tr>
+          <td>18:30 &ndash; 18:55</td>
+          <td>Closing Ceremony</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
 <!-- *********************************************************************** -->
 
 <div class="row" style="padding-top:3em;" id="aemilianus-kehler">
@@ -196,7 +334,7 @@ permalink: /speakers/
 
 <div class="row" style="padding-top:3em;" id="robert-keizer">
   <div class="col-lg-12 bg-primary">
-    <h4 class="title">Reverse DNS the World - What do you learn? The how and what.</h4>
+    <h4 class="title">Reverse DNS the World - What do you learn? The how and what</h4>
     <h5 class="speaker">Rob Keizer (Pegboard Hosting)</h5>
   </div>
 </div>
