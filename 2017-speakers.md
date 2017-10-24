@@ -177,23 +177,6 @@ permalink: /speakers/
 
 <!-- *********************************************************************** -->
 
-<div class="row" style="padding-top:3em;" id="christian-johnson">
-  <div class="col-lg-12 bg-primary">
-    <h4 class="title">TBA</h4>
-    <h5 class="speaker">Christian Johnson</h5>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-lg-7">
-    <p class="abstract">TBA</p>
-
-    <p class="bio">Chris is a local IT enthusiast and wannabe security professional currently employed by ParIT Worker Co-Op. Having survived several strokes in his late teen years, he now makes use of a range of programs aimed at making computation an accessible end goal.</p>
-  </div>
-</div>
-
-<!-- *********************************************************************** -->
-
 <div class="row" style="padding-top:3em;" id="christian-peron">
   <div class="col-lg-12 bg-primary">
     <h4 class="title">For The Win: Finding WAF Evasions and Verifying Fixes with FTW</h4>
