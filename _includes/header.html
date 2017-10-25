@@ -13,19 +13,19 @@
 
       <div id="navbar" class="nav navbar-right navbar-collapse collapse">
         <ul class="nav navbar-nav">
-          <li  class="active" ><a href="/">Home</a></li>
-          <li ><a href="/about/">About</a></li>
-          <li ><a href="/speakers/">Speakers</a></li>
-          <li ><a href="/sponsors/">Sponsors</a></li>
-          <li ><a href="/contact/">Contact</a></li>
+          <li {% if page.path == 'index.md' %} class="active" {% endif %}><a href="/">Home</a></li>
+          <li {% if page.path == 'about.md' %} class="active" {% endif %}><a href="/about/">About</a></li>
+          <li {% if page.path == '2017-speakers.md' %} class="active" {% endif %}><a href="/speakers/">Schedule &amp; Speakers</a></li>
+          <li {% if page.path == '2017-sponsors.md' %} class="active" {% endif %}><a href="/sponsors/">Sponsors</a></li>
+          <li {% if page.path == 'contact.md' %} class="active" {% endif %}><a href="/contact/">Contact</a></li>
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Archive <span class="caret"></span></a>
             <ul class="dropdown-menu" role="menu">
               <li class="dropdown-header">2015</li>
-              <li><a href="/2015/speakers/">Speakers</a></li>
+              <li><a href="/2015/speakers/">Schedule &amp; Speakers</a></li>
               <li><a href="/2015/sponsors/">Sponsors</a></li>
               <li class="dropdown-header">2013</li>
-              <li><a href="/2013/speakers/">Speakers</a></li>
+              <li><a href="/2013/speakers/">Schedule &amp; Speakers</a></li>
               <li><a href="/2013/sponsors/">Sponsors</a></li>
             </ul>
           </li>
