@@ -12,7 +12,7 @@ permalink: /
     <p>November 4th &amp; 5th, 2017, from 10am to 7pm.</p>
 
     <h4>Cost?</h4>
-    <p>Admission is $20, and comes with two meals each day.</p>
+    <p>Admission is $20, and comes with one meal each day.</p>
 
     <h4>Who?</h4>
     <p>BSides Winnipeg Inc. is a non-profit corporation established in July 2012 with the sole purpose of putting on BSides Winnipeg events. All conference expenses are covered by our amazing sponsors and all the organization, planning, and execution is carried out by a dedicated group of experienced volunteers.</p>
