@@ -36,7 +36,7 @@ permalink: /speakers/
         </tr>
         <tr>
           <td>13:00 &ndash; 13:45</td>
-          <td>Lunch Break<br/>Catered by the King's Head</td>
+          <td>Lunch Break</td>
         </tr>
         <tr>
           <td>13:45 &ndash; 14:40</td>
@@ -98,7 +98,7 @@ permalink: /speakers/
         </tr>
         <tr>
           <td>12:30 &ndash; 13:30</td>
-          <td>Lunch Break<br/>Catered by the King's Head</td>
+          <td>Lunch Break</td>
         </tr>
         <tr>
           <td>13:30 &ndash; 13:55</td>
