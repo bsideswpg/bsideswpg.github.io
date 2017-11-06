@@ -13,11 +13,11 @@ year: 2015
 
     <h2>Sponsors</h2>
 
-    <h3>Tier 3</h5>
+    <h3>Tier 3</h3>
     <a href="http://www.abovesecurity.com/"><img class="sponsorlogo" src="/logos/above_security.svg" /></a>
     <hr />
 
-    <h3>Tier 2</h5>
+    <h3>Tier 2</h3>
     <a href="https://google.com/"><img class="sponsorlogo" src="/logos/google_2015.svg" /></a>
     <a href="http://highspeedcrow.ca/"><img class="sponsorlogo" src="/logos/high_speed_crow.jpg" /></a>
     <a href="http://www.iqmetrix.com/"><img class="sponsorlogo" src="/logos/iqmetrix.png" /></a>
@@ -28,7 +28,7 @@ year: 2015
     <a class="sponsortext" href="https://www.linkedin.com/in/marcusjungbauer">Marcus Jungbauer</a>
     <hr />
 
-    <h3>Tier 1</h5>
+    <h3>Tier 1</h3>
     <a href="http://www.canadiantire.ca/en.html"><img class="sponsorlogo" src="/logos/canadian_tire.png" /></a>
     <a href="http://www.octopitech.com/"><img class="sponsorlogo" src="/logos/octopi.png" /></a>
     <div style="height:200px;max-width:300px;display:inline-block;padding:0 20px;vertical-align:middle">
@@ -43,14 +43,12 @@ year: 2015
     <hr />
 
     <h3>Custom Tier</h3>
-    <ul>
-      <a href="http://rockybergen.com/"><img class="sponsorlogo" src="/logos/rocky_bergen.png" /></a>
-      <a href="http://aaavideorecording.com/"><img class="sponsorlogo" src="/logos/aaa_video_recording.jpg" /></a>
-      <a class="sponsortext" href="http://www.brandonenright.net/">Brandon Enright</a>
-      <a class="sponsortext" href="http://somewhere.ca/">Cian Whalley</a>
-      <a href="http://www.kingshead.ca/"><img class="sponsorlogo" src="/logos/kings_head.jpg" /></a>
-      <a href="http://skullspace.ca/"><img class="sponsorlogo" src="/logos/skullspace.png" /></a>
-      <a href="http://voinetworksolutions.com/home/"><img class="sponsorlogo" src="/logos/voi.png" /></a>
-    </ul>
+    <a href="http://rockybergen.com/"><img class="sponsorlogo" src="/logos/rocky_bergen.png" /></a>
+    <a href="http://aaavideorecording.com/"><img class="sponsorlogo" src="/logos/aaa_video_recording.jpg" /></a>
+    <a class="sponsortext" href="http://www.brandonenright.net/">Brandon Enright</a>
+    <a class="sponsortext" href="http://somewhere.ca/">Cian Whalley</a>
+    <a href="http://www.kingshead.ca/"><img class="sponsorlogo" src="/logos/kings_head.jpg" /></a>
+    <a href="http://skullspace.ca/"><img class="sponsorlogo" src="/logos/skullspace.png" /></a>
+    <a href="http://voinetworksolutions.com/home/"><img class="sponsorlogo" src="/logos/voi.png" /></a>
   </div>
 </div>

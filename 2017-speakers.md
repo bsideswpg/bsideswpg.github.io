@@ -1,6 +1,7 @@
 ---
-layout: default
-permalink: /speakers/
+layout: speakers-archived
+permalink: /2017/speakers/
+year: 2017
 ---
 
 <div class="row" id="saturday">
@@ -173,6 +174,12 @@ permalink: /speakers/
 
     <p class="bio">Like all great cyber security thought leaders, Brandon Enright is a self-aggrandizing media <span style="background-color: black; font-weight: bold; color: white">REDACTED</span>. When he isn't leading cyber infosec thoughts, he's leading cyber dreams. Brandon can factor large primes with nothing more than pencil and paper and even recite the digits of Pi in random order in arbitrary bases. Recognized as one of the great legends in machine learning, several of Brandon's machines have learned so much Harvard is working on granting them PhDs. Rumor has it that shortly after Elon Musk met Brandon, Elon bought a small island in the south pacific for shelter and revised his estimate of the coming singularity up a decade. Brandon is why Bruce Schneier has trouble sleeping at night.</p>
   </div>
+
+  <div class="col-lg-5 pull-right">
+    <a href="http://youtu.be/TQsQutioGSI">
+      <img src="http://img.youtube.com/vi/TQsQutioGSI/0.jpg" />
+    </a>
+  </div>
 </div>
 
 <!-- *********************************************************************** -->
@@ -189,6 +196,12 @@ permalink: /speakers/
     <p class="abstract">This talk will discuss some of the core design objectives Fastly had regarding their WAF implementation. Christian will discuss the design of Fastly's custom Modsecurity toolchain, and the need to thoroughly test both their code and WAF rule sets using the FTW WAF testing framework. He will discuss how continuous testing of their rules and toolchain helps identify WAF evasion and technical issues which are used to improve their technology. Finally Christian will discuss some findings and insights that we have shared with the OWASP and security communities.</p>
 
     <p class="bio">Christian has 17 years experience in cybersecurity and security based open-source engineering and development. At Fastly Christian performs threat and vulnerability research, prototype and proof of concept development.</p>
+  </div>
+
+  <div class="col-lg-5 pull-right">
+    <a href="http://youtu.be/PGcSHN3mNtE">
+      <img src="http://img.youtube.com/vi/PGcSHN3mNtE/0.jpg" />
+    </a>
   </div>
 </div>
 
@@ -207,6 +220,12 @@ permalink: /speakers/
 
     <p class="bio">Involved in many Winnipeg technology communities, businesses and projects since a young age, Colin has very in-depth experience in all aspects of networking, PCs and long-distance/rural wireless networks.</p>
   </div>
+
+  <div class="col-lg-5 pull-right">
+    <a href="http://youtu.be/XI4_FbcAKV4">
+      <img src="http://img.youtube.com/vi/XI4_FbcAKV4/0.jpg" />
+    </a>
+  </div>
 </div>
 
 <!-- *********************************************************************** -->
@@ -223,6 +242,11 @@ permalink: /speakers/
     <p class="abstract">Metasploit's getsystem makes us lazy and hides a very interesting phase of penetration testing. Sometimes it simply fails. This talk will cover basic Windows and Linux privilege escalation commands and methods.</p>
 
     <p class="bio">Dmitry currently works at iQmetrix as Software Developer and PCI Internal Security Assessor. He likes to design and develop software for payment terminals during the day and play with vulnerable VMs during the night.</p>
+  </div>
+  <div class="col-lg-5 pull-right">
+    <a href="http://youtu.be/VKPgzoqJToM">
+      <img src="http://img.youtube.com/vi/VKPgzoqJToM/0.jpg" />
+    </a>
   </div>
 </div>
 
@@ -259,6 +283,12 @@ permalink: /speakers/
     <p class="abstract">We are inundated with Information about high-cost solutions for info sec problems, but there are several free or low-cost solutions out there that are suitable for self-education or use in small businesses. Examples would include Snort, open source Tripwire, free honeypots, and Nessus Home as well as most of the tools in the Kali Linux distro. Without going into great detail on any of these, Mark will show how they can be combined into a comprehensive solution to some of the critical security controls either as a test lab or for zero-budget targets.</p>
 
     <p class="bio">Mark has been in IT since late in the previous century, filling a wide variety of roles and continuing to prove that there is room in IT for a jack of all trades with a short attention span and good people skills. He arrived to the information security role pretty recently and is drinking from the Fire Hose of Knowledge in order to catch up.</p>
+  </div>
+
+  <div class="col-lg-5 pull-right">
+    <a href="http://youtu.be/VtSexcj20CM">
+      <img src="http://img.youtube.com/vi/VtSexcj20CM/0.jpg" />
+    </a>
   </div>
 </div>
 
@@ -310,6 +340,12 @@ permalink: /speakers/
     <p class="abstract">When Mike started learning buffer overflows, he thought it was something everybody else already knew. But the reality is, there are lots of us, just like hi,, who want to know more but are either overwhelmed by the idea that buffer overflows are beyond their capabilities or just don’t know where to get started. This is a 101-level talk; it’ll talk about how a buffer overflow works, how to fuzz an app to identify an overflow opportunity, and how to create a simple overflow that will result in a compromise of a target system. If you can already smash the stack, spray the heap, and write ROP chains in your sleep, this isn’t the talk for you. If you want to learn more about how simple buffer overflows work and how to write them, this talk is for you. When you leave, you will have the information necessary to help you write your first overflow when you walk out the door. </p>
 
     <p class="bio">Mike's love of IT started in the third grade when he discovered he could view the code of BASIC programs on an Apple ][e. Mike now performs penetration testing and vulnerability assessments for a multinational agribusiness corporation. He has held many information technology and IT security positions, including developer, network administrator, system administrator, security architect and security incident handler. Mike holds the OSCP, ISC2 CISSP, and GIAC GPEN, GWAPT, GMOB, and GCIH certifications. When he is not at work, he is an avid kayak fisherman and member of a local horn rock band.</p>
+  </div>
+
+  <div class="col-lg-5 pull-right">
+    <a href="http://youtu.be/">
+      <img src="http://img.youtube.com/vi/NHDRJbLj7Jg/0.jpg" />
+    </a>
   </div>
 </div>
 
@@ -396,6 +432,12 @@ permalink: /speakers/
 
     <p class="bio">After obtaining a Master of Science in computer engineering focussing on computer security, Travis took a break from InfoSec for a couple years to write autopilot software for UAVs. Now he's back, working at MERLIN to help to keep schools safe from the bad guys, while educating future white hats by volunteering as part of the infrastructure and challenge team for the Canadian Cyber Defence Challenge.</p>
   </div>
+
+  <div class="col-lg-5 pull-right">
+    <a href="http://youtu.be/4HwHsdsQ4k0">
+      <img src="http://img.youtube.com/vi/4HwHsdsQ4k0/0.jpg" />
+    </a>
+  </div>
 </div>
 
 <!-- *********************************************************************** -->
@@ -412,6 +454,12 @@ permalink: /speakers/
     <p class="abstract">If we did a typical IT Risk assessment of the Titanic before its maiden voyage, would it have sailed? Would the risk of loss of life come in as "Medium-Low" with a Low likelihood? Would the risk practitioners have focused on an incremental approach of adding another 4 lifeboats, and putting in an initiative in the next fiscal year to fund four more? A tongue in cheek look at the typical problems with risk assessments in IT Security.</p>
 
     <p class="bio">William has been in the Information Security field for 5 years. William worked as an Information Security Specialist at MTS conducting penetration testing, vulnerability management and risk assessments. He currently works as a Senior Information Security Analyst at Great-West Life specializing in Penetration Testing. William has a Bachelor of Computer Science from the University of Manitoba and has obtained his Offensive Security Certified Professional (OSCP) and Offensive Security Certified Expert (OSCE) certifications.</p>
+  </div>
+
+  <div class="col-lg-5 pull-right">
+    <a href="http://youtu.be/y1Qy4Bnzz_c">
+      <img src="http://img.youtube.com/vi/y1Qy4Bnzz_c/0.jpg" />
+    </a>
   </div>
 </div>
 
