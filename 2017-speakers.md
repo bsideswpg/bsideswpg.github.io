@@ -157,6 +157,12 @@ year: 2017
 
     <p class="bio">Aemilianus AKA AK is a local tech enthusiast, currently working as a Systems Administrator for Deposit Guarantee Corporation of Manitoba. He spends his day fighting with government IT systems, and his nights trying to forget his days.</p>
   </div>
+
+  <div class="col-lg-5 pull-right">
+    <a href="http://youtu.be/WPr3z7xU1S8">
+      <img src="http://img.youtube.com/vi/WPr3z7xU1S8/0.jpg" />
+    </a>
+  </div>
 </div>
 
 <!-- *********************************************************************** -->
@@ -243,6 +249,7 @@ year: 2017
 
     <p class="bio">Dmitry currently works at iQmetrix as Software Developer and PCI Internal Security Assessor. He likes to design and develop software for payment terminals during the day and play with vulnerable VMs during the night.</p>
   </div>
+
   <div class="col-lg-5 pull-right">
     <a href="http://youtu.be/VKPgzoqJToM">
       <img src="http://img.youtube.com/vi/VKPgzoqJToM/0.jpg" />
@@ -266,6 +273,12 @@ year: 2017
     <p class="bio">Jason currently works at Pricerazzi as Lead Software Developer, he went through the Computer Science Co-op Program at the University of Manitoba and has been working as a developer for around 8 years. He spends his spare time working on web scraping projects and fixing his house.</p>
 
     <p class="bio">Kevin is a computer science undergrad with a passion for learning about artificial intelligence. He spends his day as a developer for Pricerazzi dealing with the joys of web scraping.</p>
+  </div>
+
+  <div class="col-lg-5 pull-right">
+    <a href="http://youtu.be/kc0TLfkcTqQ">
+      <img src="http://img.youtube.com/vi/kc0TLfkcTqQ/0.jpg" />
+    </a>
   </div>
 </div>
 
@@ -307,6 +320,12 @@ year: 2017
 
     <p class="bio">Mark is a Winnipeg-based IT double-threat (ops and dev) who works at the University of Winnipeg Library. He's a Bachelor of Computer Science graduate (University of Manitoba 2006) and Linux Foundation Certified Engineer (LFCE). Mark spoke at BSides Winnipeg 2013 and 2015.</p>
   </div>
+
+  <div class="col-lg-5 pull-right">
+    <a href="http://youtu.be/UXnEJYgBZMY">
+      <img src="http://img.youtube.com/vi/UXnEJYgBZMY/0.jpg" />
+    </a>
+  </div>
 </div>
 
 <!-- *********************************************************************** -->
@@ -323,6 +342,12 @@ year: 2017
     <p class="abstract">With public cloud adoption accelerating by all measures, the task of understanding how to deploy secure applications and architectures using the tools available in these environments is increasingly complex. This talk will cover the important aspects of public cloud security including products and tools available, compliance management, application and architecture design, identity and access management, and general best-practice.</p>
 
     <p class="bio">Mike has an undergrad degree in Mathematics and a Master's degree in computer engineering focusing on computer network security. These days he does "cloud" stuff professionally, focusing on architecting and building applications and systems using public cloud technologies. Mike has several AWS certifications, enjoys powerlifting, loves cats, and volunteers with the Canadian Cyber Defence Challenge.</p>
+  </div>
+
+  <div class="col-lg-5 pull-right">
+    <a href="http://youtu.be/l-kiZA0JK54">
+      <img src="http://img.youtube.com/vi/l-kiZA0JK54/0.jpg" />
+    </a>
   </div>
 </div>
 
@@ -343,7 +368,7 @@ year: 2017
   </div>
 
   <div class="col-lg-5 pull-right">
-    <a href="http://youtu.be/">
+    <a href="http://youtu.be/NHDRJbLj7Jg">
       <img src="http://img.youtube.com/vi/NHDRJbLj7Jg/0.jpg" />
     </a>
   </div>
@@ -364,6 +389,12 @@ year: 2017
 
     <p class="bio">Rob is an active player in Winnipeg’s tech scene, lending his talents to a variety of entrepreneurial and startup ventures. He is currently Founder and CEO at Pegboard Hosting and a Founding Director of Coldhak. His previous community involvement has included serving on boards of SkullSpace and the Manitoba Unix User Group (MUUG). Previous titles include developer, systems admin, CTO, etc.</p>
   </div>
+
+  <div class="col-lg-5 pull-right">
+    <a href="http://youtu.be/ZrPOQZfD3Ck">
+      <img src="http://img.youtube.com/vi/ZrPOQZfD3Ck/0.jpg" />
+    </a>
+  </div>
 </div>
 
 <!-- *********************************************************************** -->
@@ -380,6 +411,12 @@ year: 2017
     <p class="abstract">Let's talk about risk assessment and personal security! As technically inclined people, we are at an advantage when it comes to our privacy and security. We are more aware of the risks and consequences associated with our use of technology than the average person. For them, standard security advice is overwhelming, unrealistic and failure to comply comes with intangible consequences. Sensationalist media coverage of obscure DDoS attacks from China combined with the reality that people tend to suck at assessing risk means that the average person is more worried about the Russian government reading their email than they are of giving their own password away. On the other side of things, as professionals who have some idea of what actually can go wrong, our trouble with assessing risk tends to take us in the opposite direction. We lock everything down to the point of missing out on some of the cool things that our tech can offer us. This talk looks at how we can help ourselves and the people around us better assess their risk so we can start giving more realistic advice.</p>
 
     <p class="bio">Sarah started her education in technology by hanging out with IT professionals and hobbyists who were passionate about their projects. She grew that interest by volunteering at conferences and asking lots of questions. When she finally had more questions than her friends could answer, she decided it was time for a more formal education. She started with Applied Computer Science and Business Administration at University of Winnipeg, then studied Digital Forensics, Penetration Testing and Ethical Hacking at Glasgow Caledonian University in Scotland before transferring into the Business Information Technology program at Red River College. She is currently on the board of technology student group, Bits and Bytes Association. Never quite satisfied with her current level of knowledge, Sarah is always working to strengthen her skills and build her expertise by taking on side projects and talking to people more experienced than herself. Upon graduation (expected: June, 2019), she wants to work as a security analyst. She enjoys hipster coffee, going to the gym, and Instagramming her food. You can find her on the Internet as @punkrockgoth.</p>
+  </div>
+
+  <div class="col-lg-5 pull-right">
+    <a href="http://youtu.be/3U2E7r-U1i0">
+      <img src="http://img.youtube.com/vi/3U2E7r-U1i0/0.jpg" />
+    </a>
   </div>
 </div>
 
@@ -398,6 +435,12 @@ year: 2017
 
     <p class="bio">With nearly two decades experience working with Manitoban ISP networks, Theo has long toiled behind the scenes of many ISPs and enterprises bringing the Internet to people. He continues to be involved in the local Internet provider community through things like the Manitoba Internet Exchange (MBIX), and the Manitoba Network Operator Group (MBNOG), and currently holds a director position on the MBIX board, as well as a volunteer network operator role at MBIX.</p>
   </div>
+
+  <div class="col-lg-5 pull-right">
+    <a href="http://youtu.be/euGFNFVifhw">
+      <img src="http://img.youtube.com/vi/euGFNFVifhw/0.jpg" />
+    </a>
+  </div>
 </div>
 
 <!-- *********************************************************************** -->
@@ -414,6 +457,12 @@ year: 2017
     <p class="abstract">Conducting assessments against 2500+ machines is very different than conducting smaller 500 or less assessments. This talk will provide basics on managing these sorts of assessments, and provide tips for automating repetitive tasks to allow you to maximize your engagement time. This includes useful tools Tim has found, custom scripts, and writing basic Metasploit Aux modules to get things done fast.</p>
 
     <p class="bio">Tim Jensen is a Senior Penetration Tester with AppSec Consulting, based out of San Jose California. Tim lives in Fargo, ND USA and greatly enjoys Network, Physical, and Wireless testing. When not obsessing over hacking, Tim spends time playing with Software Defined Radios, volunteering, and going on adventures.</p>
+  </div>
+
+  <div class="col-lg-5 pull-right">
+    <a href="http://youtu.be/csdtQUVlq_A">
+      <img src="http://img.youtube.com/vi/csdtQUVlq_A/0.jpg" />
+    </a>
   </div>
 </div>
 
@@ -477,5 +526,11 @@ year: 2017
     <p class="abstract">An overview of techniques for bypassing web application firewalls, and how to use them in conjunction with automated testing tools to validate the efficacy of application defenses.</p>
 
     <p class="bio">Yvan has been in computer security for many years, and in information technology for even longer. He's spoken at several conferences, and had positions with several companies whose names you would recognize. Yvan likes to live on the edge, by doing things like letting conference organizers write bios for him.</p>
+  </div>
+
+  <div class="col-lg-5 pull-right">
+    <a href="http://youtu.be/uqFDuaBeZaE">
+      <img src="http://img.youtube.com/vi/uqFDuaBeZaE/0.jpg" />
+    </a>
   </div>
 </div>
