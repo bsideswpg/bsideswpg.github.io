@@ -3,6 +3,9 @@ layout: default
 permalink: /
 ---
 
+<script>
+window.location = '/redirect.html';
+</script>
 <div class="row marketing">
   <div class="col-lg-6">
     <h4>Where?</h4>
